@@ -31,6 +31,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
         dino.src = 'images/1.png';
         clearInterval(loop);
+
+        location.reload();
       }
     }
   }, 10);
