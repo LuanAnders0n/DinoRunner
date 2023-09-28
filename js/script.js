@@ -33,6 +33,7 @@ document.addEventListener('DOMContentLoaded', () => {
         clearInterval(loop);
 
         location.reload();
+        a;
       }
     }
   }, 10);
